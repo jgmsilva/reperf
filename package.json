@@ -13,6 +13,7 @@
   "dependencies": {
     "@opam/dune": "*",
     "@opam/printbox": "*",
+    "@opam/printbox-text": "*",
     "@opam/reason": "^3.4.0",
     "ocaml": ">=4.4.0"
   },
